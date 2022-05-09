@@ -1,10 +1,8 @@
-# Group 10 - DB Design Project 
+# Final project for the Database Design course at Uppsala University
 
-This repository contains complementary deliverables (sql files, additional diagrams etc) for the database project.
+This repository contains complementary deliverables for the database project.
 
-
-
-### Prerequisites
+## Prerequisites
 
 * PrettyTables
   ```sh
@@ -15,7 +13,7 @@ This repository contains complementary deliverables (sql files, additional diagr
   pip install requirements.txt
   ```
 
-### Usage
+## Usage
 
 * DBApp.py
 ```
