@@ -1,5 +1,3 @@
-![mysql-logo](https://github.com/alko5923/Database-Design/blob/main/MySQL-Logo.png) 
-
 # A Relational Database
 
 Final project for the Database Design course at Uppsala University.
@@ -26,3 +24,5 @@ Final project for the Database Design course at Uppsala University.
 ```
   Prompts you with "Product ID?" (Product name) and shows the price after discount for that item. You are then given a question if you want to change that discount (y/n). If you chose yes then you can enter a new discount for that item and the price gets updated and the new price is displayed. 
 ```
+
+![mysql-logo](https://github.com/alko5923/Database-Design/blob/main/MySQL-Logo.png) 
