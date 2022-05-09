@@ -1,3 +1,5 @@
+![mysql-logo](https://github.com/alko5923/Database-Design/blob/main/MySQL-Logo.png) 
+
 # Final project for the Database Design course at Uppsala University
 
 This repository contains complementary deliverables for the database project.
